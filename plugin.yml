@@ -1,0 +1,15 @@
+name: XKickUI
+main: JukaChance\xkickui\KickUI
+authors:
+- JukaChance
+- supercrafter333
+version: 1.0.0
+api: 3.0.0
+commands:
+ kickui:
+  description: Kick a player.
+ permission: "kickui.command"
+
+permissions:
+ kickui.command:
+  default: true
