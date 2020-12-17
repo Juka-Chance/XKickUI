@@ -1,2 +1,3 @@
 # XKickUI
-Kick a Player
+
+Wich this plugin you can kick a Player with an UI.
