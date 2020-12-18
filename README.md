@@ -1,2 +1,0 @@
-# XKickUI
-Kick a Player
